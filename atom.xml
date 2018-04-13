@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-04T07:46:34.525Z</updated>
+  <updated>2018-04-13T01:35:26.056Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,85 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Jus </title>
-    <link href="http://yoursite.com/2018/01/04/Jus/"/>
-    <id>http://yoursite.com/2018/01/04/Jus/</id>
-    <published>2018-01-04T07:46:34.000Z</published>
-    <updated>2018-01-04T07:46:34.525Z</updated>
+    <title></title>
+    <link href="http://yoursite.com/2018/04/13/Xiaobaitu/"/>
+    <id>http://yoursite.com/2018/04/13/Xiaobaitu/</id>
+    <published>2018-04-13T01:35:26.056Z</published>
+    <updated>2018-04-13T01:35:26.056Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MMo</title>
-    <link href="http://yoursite.com/2018/01/04/MMo/"/>
-    <id>http://yoursite.com/2018/01/04/MMo/</id>
-    <published>2018-01-04T07:35:58.000Z</published>
-    <updated>2018-01-05T08:38:03.692Z</updated>
-    
-    <content type="html"><![CDATA[<p>This is an H1<br>=</p><p>This is an H2<br>-</p><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><blockquote><p>区块引用<br>其实都是自动的</p></blockquote><p><br></p><p>######只加入一个&gt;来实现整个区块引用(Blockqutes)<br>//<a href="http://img.taopic.com/uploads/allimg/121019/234917-121019231h258.jpg" target="_blank" rel="noopener">http://img.taopic.com/uploads/allimg/121019/234917-121019231h258.jpg</a></p><blockquote><p>达瓦大多哇大无多dwdadwadwadwadawdwadawdawdwaddwadawdwadawdwa</p><blockquote><p>吊袜带</p><blockquote><blockquote><blockquote><blockquote><p>吊袜带</p><p>##这是一个大标题<br>1: 达瓦</p><ul><li>red</li></ul><ul><li>red</li><li>bidw</li></ul><ol><li>red car</li></ol></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><pre><code>This is a simple objective-C language!UIView * baseView = [UIView alloc]init];</code></pre><p></p><p color="red">this i s a bad config !! wow</p><hr><p><a href="https:www.baidu.com" target="_blank" rel="noopener">My Blog<br></a><br>Markdown:<br>This is an markdown href! <a href="https://www.baidu.com" target="_blank" rel="noopener">My Blog</a></p><p>I get 10 times more traffic from <a href="http://google.com/" title="Google!!!" target="_blank" rel="noopener">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="noopener">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="noopener">MSN</a>.</p><p><strong>Strong string</strong><br><em>strong string</em><br>this is a not *strong string* </p><p><code>Use thie `printf()` function</code></p><p>A single backtick in a code span:<code>`</code></p><p>A backtick-delimited string in a code span:<code>`foo`</code></p><p>Please don’t use any <code>&lt;blink&gt;</code> tags.</p><p>Use this <img src="http://google.com/" alt="Load" title="Google!!!"> pic<br><a href="http://google.com/" title="Google!!!" target="_blank" rel="noopener">a</a>: <a href="http://img.taopic.com/uploads/allimg/121019/234917-121019231h258.jpg" target="_blank" rel="noopener">http://img.taopic.com/uploads/allimg/121019/234917-121019231h258.jpg</a> “gg”</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;This is an H1&lt;br&gt;=&lt;/p&gt;
-&lt;p&gt;This is an H2&lt;br&gt;-&lt;/p&gt;
-&lt;h2 id=&quot;This-is-an-H2&quot;&gt;&lt;a href=&quot;#This-is-an-H2&quot; class=&quot;headerlink&quot; title=&quot;This is an H2&quot;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>mmoo</title>
-    <link href="http://yoursite.com/2018/01/04/mmoo/"/>
-    <id>http://yoursite.com/2018/01/04/mmoo/</id>
-    <published>2018-01-04T07:02:04.000Z</published>
-    <updated>2018-01-04T07:02:04.165Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>BBB</title>
-    <link href="http://yoursite.com/2018/01/04/BBB/"/>
-    <id>http://yoursite.com/2018/01/04/BBB/</id>
-    <published>2018-01-04T04:05:07.000Z</published>
-    <updated>2018-01-04T04:05:07.532Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/04/hello-world/"/>
-    <id>http://yoursite.com/2018/01/04/hello-world/</id>
-    <published>2018-01-04T04:04:42.669Z</published>
-    <updated>2018-01-04T04:04:42.670Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
     
     </summary>
     
